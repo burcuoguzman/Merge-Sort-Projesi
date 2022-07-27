@@ -24,3 +24,9 @@ https://app.patika.dev/burcuoguzman
                               [8,11,12,16,21,22]
                              
 # Soru 2
+Big-O gösterimi 
+
+n = 6
+
+O(nlogn)
+
